@@ -1,4 +1,4 @@
-### Hi there I am João P T Lima 👋
+### Hi there!
 
 <!--
 **thulerjoao/thulerjoao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
